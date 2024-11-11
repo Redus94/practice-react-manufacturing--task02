@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Redus94/practice-react-manufacturing--task02/static/css/main.f855e6bc.css",
-    "main.js": "/Redus94/practice-react-manufacturing--task02/static/js/main.298c9b8b.js",
-    "static/js/453.a07958e5.chunk.js": "/Redus94/practice-react-manufacturing--task02/static/js/453.a07958e5.chunk.js",
-    "static/media/logo.svg": "/Redus94/practice-react-manufacturing--task02/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Redus94/practice-react-manufacturing--task02/index.html",
-    "main.f855e6bc.css.map": "/Redus94/practice-react-manufacturing--task02/static/css/main.f855e6bc.css.map",
-    "main.298c9b8b.js.map": "/Redus94/practice-react-manufacturing--task02/static/js/main.298c9b8b.js.map",
-    "453.a07958e5.chunk.js.map": "/Redus94/practice-react-manufacturing--task02/static/js/453.a07958e5.chunk.js.map"
+    "main.css": "/practice-react-manufacturing--task02/static/css/main.f855e6bc.css",
+    "main.js": "/practice-react-manufacturing--task02/static/js/main.938c5c29.js",
+    "static/js/453.a07958e5.chunk.js": "/practice-react-manufacturing--task02/static/js/453.a07958e5.chunk.js",
+    "static/media/logo.svg": "/practice-react-manufacturing--task02/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practice-react-manufacturing--task02/index.html",
+    "main.f855e6bc.css.map": "/practice-react-manufacturing--task02/static/css/main.f855e6bc.css.map",
+    "main.938c5c29.js.map": "/practice-react-manufacturing--task02/static/js/main.938c5c29.js.map",
+    "453.a07958e5.chunk.js.map": "/practice-react-manufacturing--task02/static/js/453.a07958e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.298c9b8b.js"
+    "static/js/main.938c5c29.js"
   ]
 }
